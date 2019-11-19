@@ -1,0 +1,9 @@
+﻿  Instructions.cpp
+C:\Users\user\Desktop\PipeLine\PipeLine\Intructions.h(48,17): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\user\Desktop\PipeLine\PipeLine\Intructions.h(51,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\PipeLine\PipeLine\Intructions.h(48,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\PipeLine\PipeLine\Intructions.h(51,17): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\user\Desktop\PipeLine\PipeLine\Source.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PipeLine.vcxproj -> C:\Users\user\Desktop\PipeLine\Debug\PipeLine.exe
